@@ -9,5 +9,18 @@
         "twitter": "IrolehVincent",
         "url": "github.com/vincentiroleh",
         "profession": "Computer Engineer"
-    }
+    },
+	
+	  {
+    "name": "Okwuosa Chukwuebua",
+    "github": "atomicintegral",
+    "resident": "Nigeria",
+    "country": "Nigeria",
+    "gender": "Male",
+    "stack": "  html, css, robotics",
+    "twitter": "",
+    "url": "atomicintegral.github.io",
+    "profession": "Student"
+  },
+
 ]
